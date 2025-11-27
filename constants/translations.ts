@@ -68,10 +68,15 @@ export const translations = {
         }
       ]
     },
+    paymentMethods: {
+      title: 'SECURE PAYMENTS POWERED BY GLOBAL LEADERS'
+    },
     footer: {
       description: 'Your trusted partner in digital payments.',
       address: 'Company Headquarters: Tanta, Egypt',
-      copyright: 'All rights reserved.'
+      copyright: 'All rights reserved.',
+      terms: 'Terms & Conditions',
+      privacy: 'Privacy Policy'
     }
   },
   ar: {
@@ -142,10 +147,15 @@ export const translations = {
         }
       ]
     },
+    paymentMethods: {
+      title: 'مدفوعات آمنة مقدمة من رواد عالميين'
+    },
     footer: {
       description: 'شريكك الموثوق في عالم المدفوعات الرقمية.',
       address: 'مقر الشركة: طنطا، مصر',
-      copyright: 'جميع الحقوق محفوظة.'
+      copyright: 'جميع الحقوق محفوظة.',
+      terms: 'الشروط والأحكام',
+      privacy: 'سياسة الخصوصية'
     }
   }
 };
